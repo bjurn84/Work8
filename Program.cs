@@ -1,0 +1,1 @@
+﻿foreach (int i in Enumerable.Range(1, int.Parse(Console.ReadLine()) >> 1)) Console.WriteLine(i << 1);
